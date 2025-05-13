@@ -1,61 +1,73 @@
-primary_name: "Your Name"
+primary_name: "Cristian Pulido"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Cristian Pulido"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/un.png  # Logo is optional
+  name: PhD Student in Systems and Computer Engineering
+- logo: /assets/images/badges/datalab_logo.svg  # Logo is optional
+  name: Data Science Researcher
+- logo: /assets/images/badges/uan.png  # Logo is optional
+  name: Adjunct Professor in Computer Science and Engineering
 
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+email: "cpulido@unal.edu.co"
+cv_link: /assets/images/CV_Cristian_Pulido_20250513.pdf
+gscholar: t8zprosAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: cristian-pulido
+linkedin: cristian-alejandro-pulido-quintero-673a62302
+orcid: 0000-0003-0785-7683
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a mathematician with a strong background in applied modeling and computational analysis. My current work focuses on the integration of uncertainty-aware predictive models into decision-making processes for complex systems.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Through my doctoral research, I explore how changes in behavior and incomplete information impact the effectiveness of emergency response strategies. At DataLab, I contribute to the development of data-driven tools for assessing health risks, optimizing interventions, and supporting public sector decision-making.
   </p>
 
+
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+#portrait_caption: >-
+#  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Universidad Nacional de Colombia, Bogotá D.C., Colombia.
+  logo: /assets/images/badges/un.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Systems and Industrial Engineering<br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Aug. 2023 - present
+- name: Universidad Nacional de Colombia, Bogotá D.C., Colombia.
+  logo: /assets/images/badges/un.png
+  position: >- 
+    Department of Mathematics<br/>
+    M.Sc. in Applied Mathematics
+  date: Feb. 2018 - Nov. 2020
+- name: Universidad Distrital Francisco José de Caldas, Bogotá D.C., Colombia.
+  logo: /assets/images/badges/ud.png
+  position: >- 
+    Faculty of Science and Education<br/>
+    B.Sc. in Mathematics
+  date: Feb. 2011 – Apr. 2017
+experience:
+- name: DataLab – Universidad Nacional de Colombia
+  logo: /assets/images/badges/datalab_logo.svg
+  position: Researcher in Predictive Analytics
+  date: Dec. 2019 – Present
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+- name: ViveLab Bogotá
+  logo: /assets/images/badges/vivelab.png
+  position: Researcher in Emerging Technologies
+  date: Jun. 2019 – Sep. 2019
+
+- name: Fundación Universitaria de Ciencias de la Salud
+  logo: /assets/images/badges/Logo_FUCS.png
+  position: Research Assistant – Medical Imaging
+  date: Mar. 2018 – Nov. 2019
+
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Best Student Paper Award - 7th Int. Conference on Behavioral and Social Computing (BESC)
+  date: 2020

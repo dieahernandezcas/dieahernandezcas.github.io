@@ -67,3 +67,23 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+.badge[data-type="journal"] {
+  background-color: #4B0082; /* Indigo oscuro */
+  color: #fff;
+}
+
+.badge[data-type="conference"] {
+  background-color: #FF6347; /* Tomato */
+  color: #fff;
+}
+
+.badge[data-type="thesis"] {
+  background-color: #20B2AA; /* LightSeaGreen */
+  color: #fff;
+}
+
+.badge[data-type="abstract"] {
+  background-color: #9370DB; /* MediumPurple */
+  color: #fff;
+}
+

@@ -1,30 +1,30 @@
-primary_name: "Cristian Pulido"
+primary_name: "Diego Hernández"
 secondary_name: ""
-navbar_name: "Cristian Pulido"
+navbar_name: "Diego Hernández"
 
 positions:
 - logo: /assets/images/badges/un.png  # Logo is optional
   name: PhD Student in Systems and Computer Engineering
-- logo: /assets/images/badges/datalab_logo.svg  # Logo is optional
-  name: Data Science Researcher
-- logo: /assets/images/badges/uan.png  # Logo is optional
-  name: Adjunct Professor in Computer Science and Engineering
+- logo: /assets/images/badges/rappi_logo.svg  # Logo is optional
+  name: Specialist Data Science
+- logo: /assets/images/badges/un.png  # Logo is optional
+  name: Lecturer in Economic Engineering
 
 
-email: "cpulido@unal.edu.co"
+email: "dieahernandezcas@unal.edu.co"
 cv_link: /assets/images/CV_Cristian_Pulido_20250513.pdf
 gscholar: t8zprosAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: cristian-pulido
-linkedin: cristian-alejandro-pulido-quintero-673a62302
-orcid: 0000-0003-0785-7683
+linkedin: diego-a-hern%C3%A1ndez-casta%C3%B1eda-688842134
+orcid: 0009-0006-0966-0947
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a mathematician with a strong background in applied modeling and computational analysis. My current work focuses on the integration of uncertainty-aware predictive models into decision-making processes for complex systems.
+    I am Mathematician passionate about programming, data science, and applied mathematics. Proven expertise in machine learning and data analysis through research and professional roles. Collaborative and leadership skills for creative and effective solutions.
   </p>
   <p>
-    Through my doctoral research, I explore how changes in behavior and incomplete information impact the effectiveness of emergency response strategies. At DataLab, I contribute to the development of data-driven tools for assessing health risks, optimizing interventions, and supporting public sector decision-making.
+    Through my doctoral research, I study how fairness interventions in crime prediction systems affect downstream outcomes across the predictive policing pipeline. I develop data-driven causal inference methods to evaluate the propagation of bias and support ethical, evidence-based decision-making in public safety.
   </p>
 
 

@@ -13,7 +13,7 @@ positions:
 
 email: "dieahernandezcas@unal.edu.co"
 cv_link: /assets/images/CV_Cristian_Pulido_20250513.pdf
-gscholar: t8zprosAAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: xN3GJ5UAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
 github: cristian-pulido
 linkedin: diego-a-hern%C3%A1ndez-casta%C3%B1eda-688842134
 orcid: 0009-0006-0966-0947
@@ -38,36 +38,30 @@ education:
   position: >- 
     Department of Systems and Industrial Engineering<br/>
     Ph.D. Student
-  date: Aug. 2023 - present
+  date: June. 2022 - present
 - name: Universidad Nacional de Colombia, Bogotá D.C., Colombia.
   logo: /assets/images/badges/un.png
   position: >- 
     Department of Mathematics<br/>
-    M.Sc. in Applied Mathematics
-  date: Feb. 2018 - Nov. 2020
-- name: Universidad Distrital Francisco José de Caldas, Bogotá D.C., Colombia.
-  logo: /assets/images/badges/ud.png
-  position: >- 
-    Faculty of Science and Education<br/>
     B.Sc. in Mathematics
-  date: Feb. 2011 – Apr. 2017
+  date: Feb. 2016 - Jun. 2021
 experience:
-- name: DataLab – Universidad Nacional de Colombia
-  logo: /assets/images/badges/datalab_logo.svg
-  position: Researcher in Predictive Analytics
-  date: Dec. 2019 – Present
+- name: Lecutrer – Universidad Nacional de Colombia
+  logo: /assets/images/badges/un.png
+  position: Lecturer in Economic Engineering
+  date: Jun. 2024 – Present
 
-- name: ViveLab Bogotá
-  logo: /assets/images/badges/vivelab.png
-  position: Researcher in Emerging Technologies
-  date: Jun. 2019 – Sep. 2019
+- name: Rappi Latin America
+  logo: /assets/images/badges/rappi_logo.png
+  position: Specialist Data Science
+  date: Nov. 2021 – Present
 
-- name: Fundación Universitaria de Ciencias de la Salud
+- name: NUVU
   logo: /assets/images/badges/Logo_FUCS.png
-  position: Research Assistant – Medical Imaging
-  date: Mar. 2018 – Nov. 2019
+  position: Data Science
+  date: Mar. 2020 – Oct. 2021
 
 
 awards:
-- name: Best Student Paper Award - 7th Int. Conference on Behavioral and Social Computing (BESC)
-  date: 2020
+- name: Honorable Mention at the Colombian National Programming Olympiad.
+  date: 2017

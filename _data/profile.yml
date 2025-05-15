@@ -46,6 +46,12 @@ education:
     Department of Mathematics<br/>
     B.Sc. in Mathematics
   date: Feb. 2016 - Jun. 2021
+- name: Universidad Distrital Francisco José de Caldas
+  logo: /assets/images/badges/ud.png
+  position: >- 
+    Department of Engineering<br/>
+    B.Eng. in Geodesic Engineer
+  date: Feb. 2011 - Jun. 2016
 experience:
 - name: Lecutrer – Universidad Nacional de Colombia
   logo: /assets/images/badges/un.png

@@ -5,10 +5,11 @@ navbar_name: "Diego Alejandro Hernández Castañeda"
 positions:
 - logo: /assets/images/badges/un.png  # Logo is optional
   name: PhD Student in Systems and Computer Engineering
-- logo: /assets/images/badges/rappi_logo.png  # Logo is optional
-  name: Specialist Data Science
 - logo: /assets/images/badges/un.png  # Logo is optional
   name: Lecturer in Economic Engineering
+- logo: /assets/images/badges/rappi_logo.png  # Logo is optional
+  name: Specialist Data Science
+
 
 
 email: "dieahernandezcas@unal.edu.co"

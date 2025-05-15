@@ -1,6 +1,6 @@
 ---
 title:          "Quantifying Fairness in Spatial Predictive Policing"
-date:           
+date:           2025-05-01
 selected:       true
 pub:            "Artificial Intelligence and Law"
 # pub_date:       "2025"

@@ -9,7 +9,7 @@ abstract: >-
 
 cover:          /assets/images/badges/catfish.png  
 
-type: "thesis"
+type: "Journal"
 authors:
   - Gabriel Lozano
   - Diego Hernández

@@ -4,7 +4,7 @@ date:           2020-11-05
 selected:       false
 pub:            "2020 7th International Conference on Behavioural and Social Computing (BESC)"
 pub_date:       "2020"
-type: "conference"
+type: "Journal"
 abstract: >-
   Due to the emergency arising from Covid-19 and the mandatory confinement decreed in Colombia on March 25, 2020, there is an opportunity to review indicators that are associated with respiratory diseases in the country and assess whether the isolations decreed by the national government had anyi mpact on the decrease thereof. The objective of this study is to review the variation in carbon monoxide (CO) present in the air breathed by the inhabitants of the department of Cundinamarca (Colombia) during the first 6 months of 2019 and 2020. The selected time period corresponds to the emergency by Covid-19 from its beginnings until the reopening of economic activities, compared to the same period of 2019 with an industry working at full throttle.
 

@@ -12,7 +12,7 @@ abstract: >-
 
 cover:          /assets/images/covers/fairness.png  
 
-type: "conference"
+type: "Journal"
 authors:
   - Diego Hernández
   - Cristian Pulido
